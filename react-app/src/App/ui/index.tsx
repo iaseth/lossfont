@@ -1,2 +1,2 @@
 
-export * from "./ui";
+export { default as LossFontDigit } from "./LossFontDigit/LossFontDigit";

@@ -21,3 +21,7 @@ h6, .h6, .p6 { @apply text-xs; }
 body {
 	@apply bg-zinc-900 text-zinc-200;
 }
+
+.LossFontDigit > .bar {
+	@apply p-1 bg-red-500;
+}
